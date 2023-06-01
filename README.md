@@ -25,6 +25,7 @@ This C program is a simple application that stores data in a hash table. The pro
 - Print Data List
 - Calculate Step Count
 - Exit
+
 Enter your choice: 1
 
 Enter the number of the person you want to add: 123
@@ -42,6 +43,7 @@ Data added: 123 - John Doe
 - Print Data List
 - Calculate Step Count
 - Exit
+
 Enter your choice: 2
 Enter the number of the person you want to search: 123
 
@@ -57,6 +59,7 @@ Search completed in 1 step.
 - Print Data List
 - Calculate Step Count
 - Exit
+
 Enter your choice: 3
 Enter the number of the person you want to delete: 123
 
@@ -71,5 +74,7 @@ Deletion successful.
 - Print Data List
 - Calculate Step Count
 - Exit
+
 Enter your choice: 0
+
 Exiting the program...

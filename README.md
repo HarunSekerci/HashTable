@@ -43,7 +43,6 @@ Data added: 123 - John Doe
 - Calculate Step Count
 - Exit
 Enter your choice: 2
-
 Enter the number of the person you want to search: 123
 
 Found data: 123 - John Doe
@@ -59,7 +58,6 @@ Search completed in 1 step.
 - Calculate Step Count
 - Exit
 Enter your choice: 3
-
 Enter the number of the person you want to delete: 123
 
 Deletion successful.
@@ -74,5 +72,4 @@ Deletion successful.
 - Calculate Step Count
 - Exit
 Enter your choice: 0
-
 Exiting the program...

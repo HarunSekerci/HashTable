@@ -29,7 +29,9 @@ This C program is a simple application that stores data in a hash table. The pro
 Enter your choice: 1
 
 Enter the number of the person you want to add: 123
+
 Enter the name of the person you want to add: John
+
 Enter the last name of the person you want to add: Doe
 
 Data added: 123 - John Doe
@@ -45,9 +47,11 @@ Data added: 123 - John Doe
 - Exit
 
 Enter your choice: 2
+
 Enter the number of the person you want to search: 123
 
 Found data: 123 - John Doe
+
 Search completed in 1 step.
 
 ### Main Menu:
@@ -61,6 +65,7 @@ Search completed in 1 step.
 - Exit
 
 Enter your choice: 3
+
 Enter the number of the person you want to delete: 123
 
 Deletion successful.
